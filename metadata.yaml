@@ -1,5 +1,8 @@
 _repo: The-Little-Black-Princess-A-True-Tale-of-Life-in-the-Never-Never-Land_57205
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57205-h/images/cover.jpg
 creator:
   author:
     agent_name: Gunn, Jeannie
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1550'
     url: http://www.gutenberg.org/2009/agents/1550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57205#The-Little-Black-Princess-A-True-Tale-of-Life-in-the-Never-Never-Land
 gutenberg_issued: '2018-05-23'
 gutenberg_type: Text
 identifiers:
